@@ -9,5 +9,5 @@ Tech Stack: JavaScript, React, Vite, CSS
 Features: Real-time risk scoring, trend analysis, personalized insights
 
 ## Quick Start
-https://burnout-radar-score.vercel.app/
+https://burnout-radar-tracker.vercel.app/login
 
